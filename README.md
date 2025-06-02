@@ -1,7 +1,7 @@
 ## Paper-Review: Generating Radiology Reports via Memory-driven Transformer (EMNLP 2020)
 Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan
 https://arxiv.org/abs/2010.16056
----
+# ---
 # 1. 연구 목적
 자동 방사선 판독 보고서 생성을 통한 의료 업무 효율화 도모
 
